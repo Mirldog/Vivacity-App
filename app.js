@@ -20,7 +20,7 @@ const pool = new pg_1.Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'viv-applicant',
-    password: 'M1rley~plus',
+    password: '',
     port: 5432
 });
 app.use(express_1.default.json());
