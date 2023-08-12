@@ -8,7 +8,7 @@ const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'viv-applicant',
-    password: 'M1rley~plus',
+    password: '',
     port: 5432
 })
 
